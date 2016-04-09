@@ -7,3 +7,6 @@ pre_test = afer_test = {0,0,32,157,1000,1000,528,179,1728,1000}
 test_time = {25 588 2507 5829 6206 9869 3359 4605 836 3863 }
 
 type 1 core = {5,6,10}
+
+period vary scalar = {2,5,10,20,50}
+task averge cycle = {100,1000,10000}

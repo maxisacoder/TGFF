@@ -137,7 +137,7 @@ private:
 
 public:
 // Typedefs
-	typedef ptrdiff_t difference_type;
+	typedef std::ptrdiff_t difference_type;
 
 	typedef v_impl::iterator vertex_iterator;
 	typedef e_impl::iterator edge_iterator;
